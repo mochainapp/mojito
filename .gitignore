@@ -2,20 +2,21 @@
 
 # dependencies
 /node_modules
-factory-contract/node_modules
-router-contract/node_modules
-sdk-moo-testnet/node_modules
-testcontract/node_modules
-token-list-testnet/node_modules
-usdt/node_modules
-weth9/node_modules
-factory-contract
-router-contract
-sdk-moo-testnet
-testcontract
-token-list-testnet
-usdt
-weth9
+/factory-contract/node_modules
+/router-contract/node_modules
+/sdk-moo-testnet/node_modules
+/testcontract/node_modules
+/token-list-testnet/node_modules
+/usdt/node_modules
+/weth9/node_modules
+/factory-contract
+/router-contract
+/sdk-moo-testnet
+/testcontract
+/token-list-testnet
+/usdt
+/weth9
+Address.txt
 
 # testing
 /coverage
